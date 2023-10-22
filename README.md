@@ -1,2 +1,1 @@
-# worker
-Saper.IO - game worker
+# Minesweeper: Worker
